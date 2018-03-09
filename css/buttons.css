@@ -1,0 +1,67 @@
+.bg-red {
+  background-color: #de322d;
+}
+.circle {
+  width: 30px;
+  height: 30px;
+  padding: auto 0;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 15px;
+    border: 1px solid #de322d;
+}
+.foot{
+  text-align: center;
+  border: none;
+}
+.profile{
+  width: 250px;
+  height: 250px;
+  border-radius: 250px;
+}
+img.profilesub{
+  width: 200px;
+  height: 200px;
+  border-radius: 250px;
+}
+.btn{
+  border-radius: 5px;
+}
+.red.outline{
+  color: #de322d;
+}
+.outline{
+  background-color: transparent;
+  transition: all .5s;
+}
+.red{
+  border-color: #de322d;
+}
+.outline:hover{
+  color: white;
+  background-color: #de322d;
+}
+.inverse {
+  background-color: transparent;
+  transition: all .5s;
+}
+.white.inverse {
+  color: #fff;
+}
+.white {
+  border-color: #fff;
+}
+.inverse:hover{
+  color: #de322d;
+  background-color: #fff;
+}
+.footbtn{
+  color: #de322d;
+}
+.nooutline{
+  background-color: transparent;
+  transition: all .5s;
+}
+.red.nooutline{
+  color: #de322d;
+}
